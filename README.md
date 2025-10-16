@@ -1,6 +1,7 @@
 # Infinity Table
 
-- Dự án này em sử dụng Next.js mới nhất.
+-   Demo video có trong source code.
+-   Dự án này em sử dụng Next.js mới nhất.
 -   Sử dụng React Query để quản lý việc lấy dữ liệu.
 -   Sử dụng shadcn/ui cho các components và table.
 -   Mỗi dòng có id duy nhất, tránh lỗi trùng key khi render.

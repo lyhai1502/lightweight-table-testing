@@ -9,6 +9,7 @@
 -   Trường state là 2 ký tự ngẫu nhiên cho mỗi dòng.
 
 <!-- Uploading "CleanShot 2025-10-16 at 11.00.36.mp4"... -->
+https://youtu.be/lmv3v3hjr2o
 
 ---
 

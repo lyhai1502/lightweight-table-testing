@@ -8,6 +8,8 @@
 -   Trường ngày tạo (created_date) được sinh tự động theo thời gian thực khi tải dữ liệu.
 -   Trường state là 2 ký tự ngẫu nhiên cho mỗi dòng.
 
+<!-- Uploading "CleanShot 2025-10-16 at 11.00.36.mp4"... -->
+
 ---
 
 ## Getting Started
